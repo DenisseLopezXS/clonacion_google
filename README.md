@@ -9,7 +9,7 @@
 * [4. Link a Demo](https://github.com/DenisseLopezXS/clonacion_google/edit/main/README.md#4-link-a-demo)
 
 ****
-](https://github.com/DenisseLopezXS/clonacion_google/edit/main/README.md#4-link-a-demo)
+
 
 ## 1. Intro 
 HTML5 trabaja de la mano con CSS3 para crear paginas web que usamos todos los días en el navegador. Incluso este sitio web en donde estas viendo este contenido esta construido con HTML y CSS. En este proyecto, con los conocimientos de HTML y CSS realicé la clonación de la interfaz de Google. 
